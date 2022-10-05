@@ -1,0 +1,41 @@
+body
+{
+    margin:20px;
+}
+img
+{
+    width: 150px;
+    height: 180px;
+    border: 2px solid  rgb(235, 188, 188);
+
+}
+
+.card{  
+
+  margin: 0px auto;
+  display: flex;
+  padding: 20px;
+  width: 430px;
+  background-color: #ddebf8;
+  border-bottom: 4px solid rgb(184, 184, 184);
+
+  
+}
+.information{
+    margin: 30px;
+    text-align: center;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+}
+.name:hover
+{
+color:#fca311;
+font-size: 20px;
+
+
+}
+/* margin: top right buttom left */
+/* padding: top right buttom left */
